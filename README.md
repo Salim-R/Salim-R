@@ -8,12 +8,12 @@ La plupart de mes dépôts sont privés parce que le code appartient aux clients
 
 ## Ce qui est public
 
-**[letabli](https://github.com/Salim-R/letabli)** — Carnets d'atelier pour artisans. Une API Node/Express sur PostgreSQL et un client Next.js 16, en deux dossiers.
+**[letabli](https://github.com/Salim-R/letabli)** - Carnets d'atelier pour artisans. Une API Node/Express sur PostgreSQL et un client Next.js 16, en deux dossiers.
 77 tests sur l'API, 14 tests de bout en bout, aucune violation WCAG 2.1 AA, aucune vulnérabilité en production.
 Stack : Next.js 16, React 19, TypeScript strict, Tailwind 4, Express, PostgreSQL, Prisma 6, Jest, Playwright, Zod.
 En ligne : [letablicarnet.vercel.app](https://letablicarnet.vercel.app)
 
-**[api-sauces](https://github.com/Salim-R/api-sauces)** — API REST Node/Express/MongoDB avec comptes, catalogue et système de votes.
+**[api-sauces](https://github.com/Salim-R/api-sauces)** - API REST Node/Express/MongoDB avec comptes, catalogue et système de votes.
 Le projet vient d'un exercice de ma formation en 2022. Je l'ai repris en 2026 : deux failles d'autorisation corrigées, dépendances à jour, logique de vote réécrite, tests ajoutés, et le front livré avec l'énoncé reconstruit d'Angular 13 vers Angular 20.
 
 ## Ce qui tourne en ligne
